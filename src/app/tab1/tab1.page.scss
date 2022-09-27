@@ -1,0 +1,16 @@
+.welcome-card img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+ion-thumbnail {
+  --size: 40px;
+  --border-radius: 10px;
+}
+ion-toolbar {
+  --background: rgba(177, 4, 4, 0.822);
+  --color: black;
+}
+.texto {
+  color: white;
+  text-align: center;
+}
